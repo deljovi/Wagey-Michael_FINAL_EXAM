@@ -8,7 +8,7 @@
 body {
     display: flex;
     min-height: 100vh;
-    background-color: #000000; 
+    background-color: #ff0000; 
     color: #FFFFFF;
 }
 
@@ -60,11 +60,11 @@ body {
     background-color: #2A2D54;  
     padding: 20px;
     border-radius: 5px;
-    background-image: url('img/welcome.jpg'); /* Masukkan gambar sebagai latar belakang */
-    background-size: cover; /* Sesuaikan ukuran gambar dengan elemen */
-    background-position: center; /* Pusatkan gambar */
-    background-repeat: no-repeat; /* Agar gambar tidak diulang */
-    color: white; /* Mengubah warna teks agar lebih terlihat */
+    background-image: url('img/welcome.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    color: white; 
 }
 
 .card-grid {
@@ -81,11 +81,11 @@ body {
     display: flex;
     justify-content: space-between;
     color: #FFFFFF;
-    background-image: url('img/Guitar.jpg'); /* Masukkan gambar sebagai latar belakang */
-    background-size: cover; /* Sesuaikan ukuran gambar dengan elemen */
-    background-position: center; /* Pusatkan gambar */
-    background-repeat: no-repeat; /* Agar gambar tidak diulang */
-    color: white; /* Mengubah warna teks agar lebih terlihat */
+    background-image: url('img/Guitar.jpg'); 
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    color: white; 
 }
 
 .card-grid .card2 {
@@ -95,11 +95,11 @@ body {
     display: flex;
     justify-content: space-between;
     color: #FFFFFF;
-    background-image: url('img/drum.jpg'); /* Masukkan gambar sebagai latar belakang */
-    background-size: cover; /* Sesuaikan ukuran gambar dengan elemen */
-    background-position: center; /* Pusatkan gambar */
-    background-repeat: no-repeat; /* Agar gambar tidak diulang */
-    color: white; /* Mengubah warna teks agar lebih terlihat */
+    background-image: url('img/drum.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    color: white; 
 }
 
 .card-grid .card3 {
@@ -109,11 +109,11 @@ body {
     display: flex;
     justify-content: space-between;
     color: #FFFFFF;
-    background-image: url('img/piano.jpg'); /* Masukkan gambar sebagai latar belakang */
-    background-size: cover; /* Sesuaikan ukuran gambar dengan elemen */
-    background-position: center; /* Pusatkan gambar */
-    background-repeat: no-repeat; /* Agar gambar tidak diulang */
-    color: white; /* Mengubah warna teks agar lebih terlihat */
+    background-image: url('img/piano.jpg'); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white; 
 }
 
 .card-grid .card4 {
@@ -123,11 +123,11 @@ body {
     display: flex;
     justify-content: space-between;
     color: #FFFFFF;
-    background-image: url('img/bass.jpg'); /* Masukkan gambar sebagai latar belakang */
-    background-size: cover; /* Sesuaikan ukuran gambar dengan elemen */
-    background-position: center; /* Pusatkan gambar */
-    background-repeat: no-repeat; /* Agar gambar tidak diulang */
-    color: white; /* Mengubah warna teks agar lebih terlihat */
+    background-image: url('img/bass.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    color: white;
 }
 
 .card:hover {
@@ -147,12 +147,11 @@ body {
     padding: 20px;
     border-radius: 5px;
     color: #FFFFFF;
-    background-image: url('img/microphone.jpg'); /* Masukkan gambar sebagai latar belakang */
-    background-size: cover; /* Sesuaikan ukuran gambar dengan elemen */
-    background-position: center; /* Pusatkan gambar */
-    background-repeat: no-repeat; /* Agar gambar tidak diulang */
-    color: white; /* Mengubah warna teks agar lebih terlihat */
-
+    background-image: url('img/microphone.jpg'); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    color: white;
 }
 
 .half-card {
@@ -161,20 +160,20 @@ body {
     border-radius: 5px;
     height: calc(50% - 10px);
     color: #FFFFFF;
-    background-image: url('img/band.jpg'); /* Masukkan gambar sebagai latar belakang */
-    background-size: cover; /* Sesuaikan ukuran gambar dengan elemen */
-    background-position: center; /* Pusatkan gambar */
-    background-repeat: no-repeat; /* Agar gambar tidak diulang */
-    color: white; /* Mengubah warna teks agar lebih terlihat */
+    background-image: url('img/band.jpg'); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    color: white;
 }
 
 .half-card:first-child {
     margin-bottom: 20px;
-    background-image: url('img/studio.jpg'); /* Masukkan gambar sebagai latar belakang */
-    background-size: cover; /* Sesuaikan ukuran gambar dengan elemen */
-    background-position: center; /* Pusatkan gambar */
-    background-repeat: no-repeat; /* Agar gambar tidak diulang */
-    color: white; /* Mengubah warna teks agar lebih terlihat */
+    background-image: url('img/studio.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    color: white; 
 
 }
 
